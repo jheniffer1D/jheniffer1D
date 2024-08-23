@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🌸
 
-<!--
-**jheniffer1D/jheniffer1D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Jheniffer Lima
 
-Here are some ideas to get you started:
+- estou estudando no [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📫
+
+  0000114533426xsp@al.educacao.sp.gov.br
+  
+  @011_jhenii
+
+  ![](https://media1.tenor.com/m/Q2NgIPxz8ugAAAAC/olaf-excited.gif)
+ 
